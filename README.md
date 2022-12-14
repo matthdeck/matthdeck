@@ -7,11 +7,15 @@
   <img src="https://komarev.com/ghpvc/?username=matthdeck&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Florida.
 
 - :seedling: Currently studying Full Stack Web Development at Bloom Institute of Technology
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-matthdeck-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthdecker/)
+
+---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -29,6 +33,9 @@ I am a Full Stack Developer from Florida.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"  title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
 
 ### :fire: My Stats :
 
