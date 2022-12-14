@@ -11,7 +11,8 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Florida.
 
-- :seedling: Currently studying Full Stack Web Development at Bloom Institute of Technology
+- :telescope: Currently working on building web applications
+- :seedling: Currently studying computer science and algorithms
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-matthdeck-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthdecker/)
 
 ---
