@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <h1>
-    Hello there 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm Matt!
+    Hello  
+    <img src="https://media.giphy.com/media/NwZk7UC69g1CBoAC0y/giphy.gif" width="50px"/>
+    ,  I'm Matt!
   </h1>
   <img src="https://komarev.com/ghpvc/?username=matthdeck&style=flat-square&color=blue" alt=""/>
 </div>
