@@ -12,7 +12,7 @@
 I am a Full Stack Developer from Florida.
 
 - :telescope: Currently working on building web applications
-- :seedling: Currently studying Angular and TypeScript
+- :seedling: Currently studying TypeScript
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-matthdeck-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthdecker/)
 
 ---
